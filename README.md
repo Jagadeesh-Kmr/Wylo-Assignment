@@ -1,6 +1,10 @@
 Created a responsive CRUD (Create, Read, Update, Delete) web application using React.js frame work.
 
+Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication.
+
 In this web application...
+
+==>
 
 ==> User can Create a list that contains user name and Task.
 
